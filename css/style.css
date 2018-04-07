@@ -1,0 +1,57 @@
+
+/*item proprios*/
+.logomarca{
+	color: #007bff;
+}
+
+section img.w-100{
+	width: 100%!important;
+	max-height: 770px;
+}
+
+/**/
+.title-surf h2,
+.formularios h2,
+.fundadores-container h2{
+	text-align: center;
+	font-size: 35px;
+	padding-top: 40px;
+	color:#007bff;
+	font-family: 'roboto'
+}
+
+section.gridds-fot .row,
+section.formularios .form-row{
+	padding-top: 10px;
+	font-family: 'roboto'
+}
+
+section.gridds-fot .row h2{
+	font-size: 28px;
+}
+
+section.gridds-fot img{
+	width: 70%;
+
+}
+
+/*fundadores*/
+section.fundadores .row{
+	padding-top: 40px;
+	margin-bottom: 100px;
+}
+section.fundadores .row h2,
+section.footer-final .row{
+	font-size: 20px;
+	font-family: 'roboto';
+}
+
+section.fundadores img{
+	height: 150px;
+}
+
+section.footer-final{
+	padding-top: 50px;
+	color: white;
+}
+
